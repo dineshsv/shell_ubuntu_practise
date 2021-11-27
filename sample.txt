@@ -1,0 +1,15 @@
+
+git stash
+git stash save
+git stash pop 
+git stash apply 
+git stash drop <stash-id> 
+
+git config --global alias.<alias-name> "<command>"
+git config --list
+git config --global --unset alias.<alias.name>
+
+
+git cherry-pick 
+
+git rebase
